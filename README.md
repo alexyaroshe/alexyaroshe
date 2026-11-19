@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://alexyaroshe.com/">
-    <img src="assets/led-ticker.gif" width="100%" alt="its the end of the world as we know it, and i feel fine">
+    <img src="mahwesty.jpg" width="100%">
   </a>
 </p>
